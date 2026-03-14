@@ -1,0 +1,22 @@
+# Environnements Python
+venv/
+webui-env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers sensibles
+.env
+*.key
+*.pem
+.webui_secret_key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Base de données Open WebUI
+*.db
